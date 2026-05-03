@@ -1,5 +1,3 @@
----
-
 # 💰 Expense Tracker Web App
 
 A clean and responsive **Expense Tracker** built using **HTML, CSS, and JavaScript** to help users manage their income and expenses efficiently.
